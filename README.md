@@ -41,7 +41,7 @@ Ensure you have Python 3.8 or later installed.
 
 ### Clone the Repository
 ```bash
-
+gh repo clone onionsp/Black-Scholes-heatmap
 ```
 
 ### Install Dependencies
